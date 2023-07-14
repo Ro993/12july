@@ -1,1 +1,2 @@
- main content
+
+ // some document content after resolved conflict 
